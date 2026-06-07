@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="banner.png" alt="Glide" width="600">
+  <img src="banner.png" alt="Glide" width="900">
 </p>
